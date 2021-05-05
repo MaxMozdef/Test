@@ -12,7 +12,7 @@ namespace Test
             for (; ; )
             {
                 q++;
-                Console.WriteLine("Hello Worlds1112как так? -ну как то так...");
+                Console.WriteLine("Hello Worlds...");
                 Console.WriteLine("or not?");
             }
                       
