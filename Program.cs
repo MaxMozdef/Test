@@ -4,9 +4,17 @@ namespace Test
 {
     class Program
     {
+        
         static void Main(string[] args)
         {
-            Console.WriteLine ("Hello World!");
-        }
+
+            int q = 0;
+            for (; ; )
+            {
+                q++;
+                Console.WriteLine("Hello Worlds!");
+            }
+                      
+        }        
     }
 }
