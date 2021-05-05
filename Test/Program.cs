@@ -7,6 +7,7 @@ namespace Test
         
         static void Main(string[] args)
         {
+
             int q = 0;
             for (; ; )
             {
